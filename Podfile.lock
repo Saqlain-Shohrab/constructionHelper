@@ -1,0 +1,56 @@
+PODS:
+  - Charts (4.1.0):
+    - Charts/Core (= 4.1.0)
+  - Charts/Core (4.1.0):
+    - SwiftAlgorithms (~> 1.0)
+  - Kingfisher (7.6.1)
+  - lottie-ios (4.4.0)
+  - PromiseKit (8.1.1):
+    - PromiseKit/CorePromise (= 8.1.1)
+    - PromiseKit/Foundation (= 8.1.1)
+    - PromiseKit/UIKit (= 8.1.1)
+  - PromiseKit/CorePromise (8.1.1)
+  - PromiseKit/Foundation (8.1.1):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (8.1.1):
+    - PromiseKit/CorePromise
+  - Realm (10.46.0):
+    - Realm/Headers (= 10.46.0)
+  - Realm/Headers (10.46.0)
+  - RealmSwift (10.46.0):
+    - Realm (= 10.46.0)
+  - Signals (6.1.0)
+  - SwiftAlgorithms (1.0.0)
+
+DEPENDENCIES:
+  - Charts
+  - Kingfisher (= 7.6.1)
+  - lottie-ios
+  - PromiseKit
+  - RealmSwift
+  - Signals (~> 6.0)
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - Kingfisher
+    - lottie-ios
+    - PromiseKit
+    - Realm
+    - RealmSwift
+    - Signals
+    - SwiftAlgorithms
+
+SPEC CHECKSUMS:
+  Charts: ce0768268078eee0336f122c3c4ca248e4e204c5
+  Kingfisher: 93a3c6d0d551658a31e19f21747e1d15cb39d525
+  lottie-ios: ef1be1f90d54255f08e09d767950e43714661178
+  PromiseKit: d1be44b474e5acfa16adf007a1f49f104e10fead
+  Realm: 699b80d8e5fc66acafd2d530199e77781a2d69d3
+  RealmSwift: 3230b8fc63759433a6938a0dd2a5dc0dc2b15760
+  Signals: f8e5c979e93c35273f8dfe55ee7f47213d3e8fe8
+  SwiftAlgorithms: 38dda4731d19027fdeee1125f973111bf3386b53
+
+PODFILE CHECKSUM: 4ec5805d29f427a85fb33870381f4fb9e53a4eab
+
+COCOAPODS: 1.14.3
