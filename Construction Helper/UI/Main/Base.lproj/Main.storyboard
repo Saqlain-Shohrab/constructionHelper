@@ -9,10 +9,10 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--SplashVC-->
+        <!--Launch Screen-->
         <scene sceneID="q3d-fP-bP7">
             <objects>
-                <viewControllerPlaceholder storyboardName="Splash" referencedIdentifier="SplashVC" id="DSU-Rw-KIG" sceneMemberID="viewController"/>
+                <viewControllerPlaceholder storyboardName="Launch Screen" id="DSU-Rw-KIG" sceneMemberID="viewController"/>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="EHy-TR-t8y" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-869" y="-244"/>
