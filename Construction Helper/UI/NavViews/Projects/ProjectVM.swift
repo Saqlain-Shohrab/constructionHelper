@@ -98,8 +98,8 @@ class ProjectVM: NSObject, UIScrollViewDelegate {
             weakSelf.onPDFDownloaded.fire(path)
             weakSelf.model.fileURL = path
             weakSelf.changeFilePath(path: path)
+            weakSelf.pdfButtonText = "Downloaded! Click to see"
             weakSelf.navigateToPDFView(path: path)
-            weakSelf.pdfButtonText = "Download completed"
             weakSelf.stopObservingForAnim()
         }
         
