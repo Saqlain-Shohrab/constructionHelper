@@ -11,27 +11,36 @@ import Charts
 
 class HomeVM {
     
-    let onDescriptionChanged = Signal<String>()
-    let onPieCharDataRetrived = Signal<PieChartData>()
-    
-    private let projectsRepository = ProjectsRepository()
-    
-    func requestData() {
-        getProjectsForChart()
+    init(projectsRepository: ProjectsRepository) {
+        self.projectsRepository = projectsRepository
+        self.setObserversForChart()
     }
     
-    private func getProjectsForChart() {
+    let onDescriptionChanged = Signal<String>()
+    let onPieCharDataRetrived = Signal<PieChartData>()
+    let onError = Signal<String>()
+    
+    private var projectsRepository = ProjectsRepository()
+    
+    func requestData() {
+        projectsRepository.requestData()
+    }
+    
+    private func setObserversForChart() {
         
         projectsRepository.onProjectsRetrived.subscribe(with: self) { [weak self] projects in
             guard let weakSelf = self, let projects = projects else {return}
             weakSelf.calculatePieChartData(projects: projects)
         }
         
-        projectsRepository.requestData()
-        
+        projectsRepository.onError.subscribe(with: self) { [weak self] error in
+            guard let weakSelf = self else {return}
+            weakSelf.onError.fire("Error retriving data")
+        }
+
     }
     
-    private func calculatePieChartData(projects: [ProjectsModelItemView]) {
+    func calculatePieChartData(projects: [ProjectsModelItemView]) {
         
         var entries: [PieChartDataEntry] = []
         let projectsCount: Int =  projects.count

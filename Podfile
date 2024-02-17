@@ -23,17 +23,15 @@ def shared_pods
   pod 'PromiseKit'
   pod 'RealmSwift'
   pod 'Charts'
-end
-
-target 'Construction Helper' do
   pod 'Signals', '~> 6.0'
   pod 'Kingfisher', '7.6.1'
   pod 'lottie-ios'
+end
+
+target 'Construction Helper' do
   shared_pods
   
   target 'Construction HelperTests' do
-    inherit! :search_paths
-    # Testing pods
   end
 
   target 'Construction HelperUITests' do

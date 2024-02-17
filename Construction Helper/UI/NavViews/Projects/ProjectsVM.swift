@@ -9,18 +9,18 @@ import Signals
 
 class ProjectsVM: NSObject {
     
-    private let projectsRepository = ProjectsRepository()
+    private var projectsRepository = ProjectsRepository()
+    
+    init(projectsRepository: ProjectsRepository) {
+        self.projectsRepository = projectsRepository
+        super.init()
+        self.setUpObservers()
+    }
     
     let onProjectsRetrived = Signal<Bool?>()
     let onError = Signal<Bool?>()
     var previousScrollPos: CGFloat = 0
     var projects = [ProjectsModelItemView]()
-    
-    override init() {
-        super.init()
-        
-        self.setUpObservers()
-    }
     
     private func setUpObservers() {
         
@@ -43,7 +43,6 @@ class ProjectsVM: NSObject {
             }
         }
         
-        requestData()
     }
     
     func requestData() {

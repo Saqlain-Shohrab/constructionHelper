@@ -14,17 +14,17 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>Pods-Construction Helper-Construction HelperTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-Construction Helper-Construction HelperUITests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
 		<key>Pods-Construction Helper.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-Construction HelperTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>

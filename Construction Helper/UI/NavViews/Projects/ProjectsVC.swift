@@ -14,7 +14,7 @@ class ProjectsVC: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        viewModel = ProjectsVM()
+        viewModel = ProjectsVM(projectsRepository: ProjectsRepository())
         setupTableView()
         setupObservers()
         

@@ -13,7 +13,7 @@ class HomeVC: UIViewController {
     @IBOutlet weak var detailedLabel: UILabel!
     @IBOutlet weak var pieChartView: PieChartView!
     
-    private let viewModel = HomeVM()
+    private let viewModel = HomeVM(projectsRepository: ProjectsRepository())
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -36,6 +36,18 @@ class HomeVC: UIViewController {
             
             guard let weakSelf = self else {return}
             weakSelf.detailedLabel.text = description
+        }
+        
+        viewModel.onError.subscribe(with: self) { [weak self] error in
+            
+            guard let weakSelf = self else {return}
+            weakSelf.view.subviews.forEach { view in
+                view.isHidden = true
+            }
+            let label = UILabel(frame: weakSelf.view.frame)
+            label.text = error
+            label.textAlignment = .center
+            weakSelf.view.addSubview(label)
         }
         
         viewModel.requestData()
