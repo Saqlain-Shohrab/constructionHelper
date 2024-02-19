@@ -23,5 +23,8 @@ jobs:
       - name: Install gems
         run: bundle install
 
-      - name: SwiftTest by SwiftActions
-      - uses: SwiftActions/SwiftTest@0.2
+      - name: Build
+        run: swift build
+
+      - name: Run tests
+        run: swift test
