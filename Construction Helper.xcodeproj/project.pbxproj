@@ -390,12 +390,12 @@
 			path = Projects;
 			sourceTree = "<group>";
 		};
-		4423C4F92B806E6900B7A74B /* Shared */ = {
+		4423C4F92B806E6900B7A74B /* Mocks */ = {
 			isa = PBXGroup;
 			children = (
 				4423C4FA2B806E9200B7A74B /* ProjectsRepositoryMock.swift */,
 			);
-			path = Shared;
+			path = Mocks;
 			sourceTree = "<group>";
 		};
 		442B066B2B6E96A300881029 = {
@@ -537,7 +537,7 @@
 		44C91F812B800D9C0055775A /* UI */ = {
 			isa = PBXGroup;
 			children = (
-				4423C4F92B806E6900B7A74B /* Shared */,
+				4423C4F92B806E6900B7A74B /* Mocks */,
 				4423C4F22B806D2D00B7A74B /* Projects */,
 				44C91F822B800DA60055775A /* Home */,
 			);

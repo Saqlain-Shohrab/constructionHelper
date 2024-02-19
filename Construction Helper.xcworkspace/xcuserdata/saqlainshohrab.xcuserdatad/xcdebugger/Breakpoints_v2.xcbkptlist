@@ -49,6 +49,21 @@
                   endingLineNumber = "39"
                   offsetFromSymbolStart = "247">
                </Location>
+               <Location
+                  uuid = "2CFB5A68-BDF5-46E8-8082-34FF5D4C9F43 - ea056af42bd912dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Construction_HelperTests.HomeVM.calculatePieChartData(projects: Swift.Array&lt;Construction_HelperTests.ProjectsModelItemView&gt;) -&gt; ()"
+                  moduleName = "Construction HelperTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saqlainshohrab/Desktop/iOS%20Apploications/Construction%20Helper/Construction%20Helper/UI/NavViews/Home/HomeVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "247">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>

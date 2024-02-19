@@ -15,7 +15,7 @@ class ProjectVM: NSObject, UIScrollViewDelegate {
     private var previousScrollPos: CGFloat = 0
     var displayLink: CADisplayLink?
     private let projectRepository = ProjectsRepository()
-    private var pdfButtonText =  "See PDF"
+    var pdfButtonText =  "See PDF"
     
     let onPDFButtonTextChange = Signal<String?>()
     let onPDFDownloaded = Signal<String>()
@@ -112,7 +112,7 @@ class ProjectVM: NSObject, UIScrollViewDelegate {
         
     }
     
-    private func modifyPDFButtonText(progress: Double? = nil, textOnly: String? = nil) {
+    func modifyPDFButtonText(progress: Double? = nil, textOnly: String? = nil) {
         
         DispatchQueue.main.async { [weak self] in
             guard let weakSelf = self else {return}
