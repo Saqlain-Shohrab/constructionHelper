@@ -8,4 +8,4 @@ device "iPhone 13 mini"
 code_coverage true
 xcargs '-parallelizeTargets'
 prelaunch_simulator true
-derived_data_path "Build/"
+#derived_data_path "Build/"
