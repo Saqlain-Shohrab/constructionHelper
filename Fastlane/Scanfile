@@ -1,7 +1,7 @@
 # For more information about this configuration visit
 # https://github.com/fastlane/scan#scanfile
 
-workspace "AnyApp.xcodeproj/project.xcworkspace"
+workspace "Construction Helper.xcodeproj/project.xcworkspace"
 scheme "Construction Helper"
 sdk "iphonesimulator"
 device "iPhone 11"

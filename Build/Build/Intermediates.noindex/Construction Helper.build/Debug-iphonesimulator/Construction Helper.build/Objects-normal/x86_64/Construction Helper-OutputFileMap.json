@@ -1,0 +1,358 @@
+{
+  "" : {
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Construction Helper-master.dia",
+    "emit-module-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Construction Helper-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Construction Helper-master-emit-module.dia",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Construction Helper-master.swiftdeps"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/AppDelegate.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/AppDelegate.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/AppDelegate.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/AppDelegate.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/AppDelegate.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/AppDelegate.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/Constants/ScreenName.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ScreenName.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ScreenName.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ScreenName.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ScreenName.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ScreenName.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ScreenName.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ScreenName.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ScreenName~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/Constants/ViewHeightUtil.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ViewHeightUtil.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ViewHeightUtil.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ViewHeightUtil.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ViewHeightUtil.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ViewHeightUtil.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ViewHeightUtil.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ViewHeightUtil.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ViewHeightUtil~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/Data/DB/OfflineProjects.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/OfflineProjects.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/OfflineProjects.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/OfflineProjects.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/OfflineProjects.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/OfflineProjects.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/OfflineProjects.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/OfflineProjects.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/OfflineProjects~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/Data/Models/ProjectsModelItemView.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsModelItemView.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsModelItemView.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsModelItemView.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsModelItemView.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsModelItemView.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsModelItemView.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsModelItemView.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsModelItemView~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/Data/Models/UserSettings.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UserSettings.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UserSettings.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UserSettings.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UserSettings.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UserSettings.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UserSettings.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UserSettings.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UserSettings~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/Data/RealmMigration.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/RealmMigration.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/RealmMigration.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/RealmMigration.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/RealmMigration.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/RealmMigration.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/RealmMigration.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/RealmMigration.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/RealmMigration~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/Data/RealmModels/ProjectsModel.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsModel.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsModel.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsModel.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsModel.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsModel.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsModel.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsModel.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsModel~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/Data/Repositories/ProjectsRepository.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsRepository.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsRepository.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsRepository.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsRepository.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsRepository.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsRepository.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsRepository.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsRepository~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/Extensions/CAGradientLayerExt.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/CAGradientLayerExt.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/CAGradientLayerExt.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/CAGradientLayerExt.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/CAGradientLayerExt.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/CAGradientLayerExt.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/CAGradientLayerExt.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/CAGradientLayerExt.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/CAGradientLayerExt~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/Extensions/Controllers/UINavigationControllerExt.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UINavigationControllerExt.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UINavigationControllerExt.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UINavigationControllerExt.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UINavigationControllerExt.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UINavigationControllerExt.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UINavigationControllerExt.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UINavigationControllerExt.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UINavigationControllerExt~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/Extensions/UI/UIApplicationsExt.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UIApplicationsExt.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UIApplicationsExt.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UIApplicationsExt.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UIApplicationsExt.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UIApplicationsExt.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UIApplicationsExt.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UIApplicationsExt.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UIApplicationsExt~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/Extensions/UI/UIColourExt.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UIColourExt.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UIColourExt.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UIColourExt.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UIColourExt.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UIColourExt.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UIColourExt.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UIColourExt.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UIColourExt~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/Extensions/UI/UITableViewExt.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UITableViewExt.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UITableViewExt.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UITableViewExt.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UITableViewExt.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UITableViewExt.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UITableViewExt.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UITableViewExt.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UITableViewExt~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/Extensions/UI/UIViews+UIExtras.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UIViews+UIExtras.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UIViews+UIExtras.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UIViews+UIExtras.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UIViews+UIExtras.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UIViews+UIExtras.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UIViews+UIExtras.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UIViews+UIExtras.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/UIViews+UIExtras~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/Notification.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Notification.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Notification.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Notification.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Notification.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Notification.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Notification.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Notification.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Notification~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/SceneDelegate.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/SceneDelegate.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/SceneDelegate.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/SceneDelegate.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/SceneDelegate.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/Tasks/App Refresh/Schedule+Register.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Schedule+Register.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Schedule+Register.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Schedule+Register.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Schedule+Register.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Schedule+Register.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Schedule+Register.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Schedule+Register.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Schedule+Register~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/Tasks/Background/TaskDownloadFile.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/TaskDownloadFile.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/TaskDownloadFile.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/TaskDownloadFile.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/TaskDownloadFile.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/TaskDownloadFile.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/TaskDownloadFile.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/TaskDownloadFile.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/TaskDownloadFile~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/UI/Main/CoreViewController.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/CoreViewController.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/CoreViewController.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/CoreViewController.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/CoreViewController.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/CoreViewController.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/CoreViewController.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/CoreViewController.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/CoreViewController~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/UI/Main/CoreViewModel.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/CoreViewModel.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/CoreViewModel.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/CoreViewModel.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/CoreViewModel.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/CoreViewModel.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/CoreViewModel.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/CoreViewModel.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/CoreViewModel~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/UI/Main/ViewFactory.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ViewFactory.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ViewFactory.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ViewFactory.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ViewFactory.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ViewFactory.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ViewFactory.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ViewFactory.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ViewFactory~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/UI/NavViews/Home/HomeVC.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/HomeVC.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/HomeVC.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/HomeVC.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/HomeVC.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/HomeVC.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/HomeVC.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/HomeVC.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/HomeVC~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/UI/NavViews/Home/HomeVM.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/HomeVM.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/HomeVM.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/HomeVM.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/HomeVM.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/HomeVM.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/HomeVM.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/HomeVM.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/HomeVM~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/UI/NavViews/Projects/PDFView/PDFViewVC.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/PDFViewVC.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/PDFViewVC.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/PDFViewVC.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/PDFViewVC.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/PDFViewVC.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/PDFViewVC.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/PDFViewVC.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/PDFViewVC~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/UI/NavViews/Projects/ProjectsVC.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsVC.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsVC.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsVC.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsVC.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsVC.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsVC.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsVC.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsVC~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/UI/NavViews/Projects/ProjectsVM.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsVM.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsVM.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsVM.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsVM.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsVM.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsVM.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsVM.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectsVM~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/UI/NavViews/Projects/ProjectVC.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectVC.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectVC.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectVC.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectVC.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectVC.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectVC.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectVC.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectVC~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/UI/NavViews/Projects/ProjectVM.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectVM.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectVM.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectVM.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectVM.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectVM.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectVM.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectVM.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectVM~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/UI/Shared/Views/GradientView.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/GradientView.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/GradientView.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/GradientView.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/GradientView.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/GradientView.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/GradientView.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/GradientView.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/GradientView~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/UI/SubViews/Projects/ProjectTVC.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectTVC.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectTVC.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectTVC.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectTVC.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectTVC.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectTVC.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectTVC.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectTVC~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/UI/SubViews/Projects/ProjectView.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectView.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectView.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectView.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectView.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectView.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectView.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectView.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/ProjectView~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/Utilities/Helper.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Helper.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Helper.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Helper.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Helper.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Helper.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Helper.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Helper.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/Helper~partial.swiftmodule"
+  },
+  "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Construction Helper/Utilities/NibLooadable.swift" : {
+    "const-values" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/NibLooadable.swiftconstvalues",
+    "dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/NibLooadable.d",
+    "diagnostics" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/NibLooadable.dia",
+    "index-unit-output-path" : "/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/NibLooadable.o",
+    "llvm-bc" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/NibLooadable.bc",
+    "object" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/NibLooadable.o",
+    "swift-dependencies" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/NibLooadable.swiftdeps",
+    "swiftmodule" : "/Users/saqlainshohrab/Desktop/iOS Apploications/Construction Helper/Build/Build/Intermediates.noindex/Construction Helper.build/Debug-iphonesimulator/Construction Helper.build/Objects-normal/x86_64/NibLooadable~partial.swiftmodule"
+  }
+}
