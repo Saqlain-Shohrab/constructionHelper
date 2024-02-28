@@ -6,10 +6,10 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>3F16CE7C-40FD-4FEF-A9DC-89CE4987C79A</key>
+		<key>246A79BC-A567-4474-BD78-763F04576193</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>84AC88EB-848B-42E0-AE64-238F8325FCBC</string>
+			<string>7616255C-0125-46D9-9E59-7F795456F356</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -17,11 +17,11 @@
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
-				<integer>1</integer>
+				<integer>26</integer>
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
+				<integer>1</integer>
 			</dict>
 			<key>className</key>
 			<string>IDESchemeActionsInvocationRecord</string>
@@ -30,7 +30,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.unit.cocoaUnitTest</string>
 			<key>fileName</key>
-			<string>Run-Construction Helper-2024.02.28_20-36-27-+0000.xcresult</string>
+			<string>Run-Construction Helper-2024.02.28_22-45-42-+0000.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasCoverageData</key>
@@ -44,11 +44,11 @@
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
-				<integer>2</integer>
+				<integer>3</integer>
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
+				<integer>1</integer>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Construction Helper project</string>
@@ -59,18 +59,18 @@
 			<key>signature</key>
 			<string>Run Construction Helper</string>
 			<key>timeStartedRecording</key>
-			<real>730845387.96109104</real>
+			<real>730853142.46901596</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run Construction Helper</string>
 			<key>uniqueIdentifier</key>
-			<string>3F16CE7C-40FD-4FEF-A9DC-89CE4987C79A</string>
+			<string>246A79BC-A567-4474-BD78-763F04576193</string>
 		</dict>
-		<key>5FB0D5CF-86A9-4C71-9C3C-76C9888FECE8</key>
+		<key>EF6BF085-0CF6-49F7-911A-3B50D97B060C</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>8E809C1B-BA50-4D3B-9161-EB571E1AC679</string>
+			<string>5AE7A073-1F5B-47D0-9F06-3984E7D465C5</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -78,11 +78,11 @@
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
-				<integer>1</integer>
+				<integer>23</integer>
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
+				<integer>1</integer>
 			</dict>
 			<key>className</key>
 			<string>IDESchemeActionsInvocationRecord</string>
@@ -91,7 +91,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.unit.cocoaUnitTest</string>
 			<key>fileName</key>
-			<string>Run-Construction Helper-2024.02.28_20-29-36-+0000.xcresult</string>
+			<string>Run-Construction Helper-2024.02.28_22-43-47-+0000.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasCoverageData</key>
@@ -105,11 +105,11 @@
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
-				<integer>2</integer>
+				<integer>3</integer>
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
+				<integer>1</integer>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Construction Helper project</string>
@@ -120,13 +120,13 @@
 			<key>signature</key>
 			<string>Run Construction Helper</string>
 			<key>timeStartedRecording</key>
-			<real>730844976.63226795</real>
+			<real>730853027.08516598</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run Construction Helper</string>
 			<key>uniqueIdentifier</key>
-			<string>5FB0D5CF-86A9-4C71-9C3C-76C9888FECE8</string>
+			<string>EF6BF085-0CF6-49F7-911A-3B50D97B060C</string>
 		</dict>
 	</dict>
 </dict>

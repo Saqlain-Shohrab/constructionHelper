@@ -2,11 +2,26 @@ fastlane_version '2.219.0'
 default_platform :ios
 
 platform :ios do
+	desc 'Install pods'
+	lane :install_pods do
+		cocoapods(
+	    	clean: true,
+	    	podfile: "./Podfile",
+	    	try_repo_update_on_error: true,
+	    	use_bundle_exec: false
+	    )
+	end
+
     desc 'Builds project and executes unit tests'
     lane :unit_test do |options|
       scan(
-        clean: options[:clean],
-        skip_package_dependencies_resolution: options[:skip_package_dependencies_resolution]
+      	workspace: "Construction Helper.xcodeproj/project.xcworkspace"
       )
     end
+
+    desc 'Testing XCTest'
+    lane :test do
+    xctest()
+  end
+
 end

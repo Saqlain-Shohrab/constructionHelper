@@ -93,6 +93,7 @@
 		445DDB162B714B860030521F /* lottie_proogress.json in Resources */ = {isa = PBXBuildFile; fileRef = 445DDB152B714B860030521F /* lottie_proogress.json */; };
 		445DDB192B715F5D0030521F /* OfflineProjects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445DDB182B715F5D0030521F /* OfflineProjects.swift */; };
 		44C91F842B800DD20055775A /* HomeVM_Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44C91F832B800DD20055775A /* HomeVM_Test.swift */; };
+		706DA1A3A9B7BB31FCABAB6A /* Pods_Construction_Helper.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 44C91F852B805C130055775A /* Pods_Construction_Helper.framework */; };
 		B89F02E2AF92A51346241832 /* Pods_Construction_Helper_Construction_HelperUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 06AA27B25B04AC6EAE9B2FD6 /* Pods_Construction_Helper_Construction_HelperUITests.framework */; };
 		FA0259E3359AD12919F6481F /* Pods_Construction_Helper.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FDF796A97BBC068C8820471 /* Pods_Construction_Helper.framework */; };
 /* End PBXBuildFile section */
@@ -189,6 +190,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA0259E3359AD12919F6481F /* Pods_Construction_Helper.framework in Frameworks */,
+				706DA1A3A9B7BB31FCABAB6A /* Pods_Construction_Helper.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

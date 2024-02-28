@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>402AAFCB-AB61-47DA-B54C-A937CABDD43B</key>
+		<key>58ADFA48-3369-4F17-8C82-8C9309A5ACE3</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>402AAFCB-AB61-47DA-B54C-A937CABDD43B.xcactivitylog</string>
+			<string>58ADFA48-3369-4F17-8C82-8C9309A5ACE3.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -25,11 +25,11 @@
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
-				<integer>1</integer>
+				<integer>13</integer>
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
+				<integer>1</integer>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Construction Helper project</string>
@@ -40,15 +40,15 @@
 			<key>signature</key>
 			<string>Testing workspace Construction Helper with scheme Construction Helper</string>
 			<key>timeStartedRecording</key>
-			<real>730845395.73035002</real>
+			<real>730853032.22191298</real>
 			<key>timeStoppedRecording</key>
-			<real>730845403.56987798</real>
+			<real>730853035.19639003</real>
 			<key>title</key>
 			<string>Testing workspace Construction Helper with scheme Construction Helper</string>
 			<key>uniqueIdentifier</key>
-			<string>402AAFCB-AB61-47DA-B54C-A937CABDD43B</string>
+			<string>58ADFA48-3369-4F17-8C82-8C9309A5ACE3</string>
 		</dict>
-		<key>84AC88EB-848B-42E0-AE64-238F8325FCBC</key>
+		<key>700B6479-9ED6-4A06-A1E0-569CB3353926</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -57,7 +57,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>84AC88EB-848B-42E0-AE64-238F8325FCBC.xcactivitylog</string>
+			<string>700B6479-9ED6-4A06-A1E0-569CB3353926.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -67,11 +67,53 @@
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
-				<integer>1</integer>
+				<integer>10</integer>
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Construction Helper project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Construction Helper</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing workspace Construction Helper with scheme Construction Helper</string>
+			<key>timeStartedRecording</key>
+			<real>730853148.76703095</real>
+			<key>timeStoppedRecording</key>
+			<real>730853152.27662599</real>
+			<key>title</key>
+			<string>Testing workspace Construction Helper with scheme Construction Helper</string>
+			<key>uniqueIdentifier</key>
+			<string>700B6479-9ED6-4A06-A1E0-569CB3353926</string>
+		</dict>
+		<key>7616255C-0125-46D9-9E59-7F795456F356</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7616255C-0125-46D9-9E59-7F795456F356.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>26</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Construction Helper project</string>
@@ -82,55 +124,13 @@
 			<key>signature</key>
 			<string>Building workspace Construction Helper with scheme Construction Helper</string>
 			<key>timeStartedRecording</key>
-			<real>730845387.95849502</real>
+			<real>730853142.46378803</real>
 			<key>timeStoppedRecording</key>
-			<real>730845395.61601496</real>
+			<real>730853148.65096796</real>
 			<key>title</key>
 			<string>Building workspace Construction Helper with scheme Construction Helper</string>
 			<key>uniqueIdentifier</key>
-			<string>84AC88EB-848B-42E0-AE64-238F8325FCBC</string>
-		</dict>
-		<key>FD5CE761-DB2B-4B5D-BAD7-94B386184F0B</key>
-		<dict>
-			<key>className</key>
-			<string>IDECommandLineBuildLog</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>FD5CE761-DB2B-4B5D-BAD7-94B386184F0B.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>1</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Construction Helper project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Construction Helper</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Testing workspace Construction Helper with scheme Construction Helper</string>
-			<key>timeStartedRecording</key>
-			<real>730845000.88887799</real>
-			<key>timeStoppedRecording</key>
-			<real>730845005.15443397</real>
-			<key>title</key>
-			<string>Testing workspace Construction Helper with scheme Construction Helper</string>
-			<key>uniqueIdentifier</key>
-			<string>FD5CE761-DB2B-4B5D-BAD7-94B386184F0B</string>
+			<string>7616255C-0125-46D9-9E59-7F795456F356</string>
 		</dict>
 	</dict>
 </dict>

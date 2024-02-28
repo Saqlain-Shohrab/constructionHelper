@@ -4,7 +4,7 @@
 workspace "Construction Helper.xcodeproj/project.xcworkspace"
 scheme "Construction Helper"
 sdk "iphonesimulator"
-device "iPhone 11"
+device "iPhone 13 mini"
 code_coverage true
 xcargs '-parallelizeTargets'
 prelaunch_simulator true

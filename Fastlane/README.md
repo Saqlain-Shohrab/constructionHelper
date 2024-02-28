@@ -15,6 +15,14 @@ For _fastlane_ installation instructions, see [Installing _fastlane_](https://do
 
 ## iOS
 
+### ios install_pods
+
+```sh
+[bundle exec] fastlane ios install_pods
+```
+
+Install pods
+
 ### ios unit_test
 
 ```sh
@@ -22,6 +30,14 @@ For _fastlane_ installation instructions, see [Installing _fastlane_](https://do
 ```
 
 Builds project and executes unit tests
+
+### ios test
+
+```sh
+[bundle exec] fastlane ios test
+```
+
+Testing XCTest
 
 ----
 
