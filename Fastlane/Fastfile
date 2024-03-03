@@ -4,7 +4,6 @@ default_platform :ios
 platform :ios do
     desc 'Builds project and executes unit tests'
     lane :unit_test do |options|
-    	cocoapods
       scan()
     end
 
