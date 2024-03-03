@@ -14,14 +14,11 @@ platform :ios do
 
     desc 'Builds project and executes unit tests'
     lane :unit_test do |options|
-      scan(
-      	workspace: "Construction Helper.xcodeproj/project.xcworkspace"
-      )
+      scan()
     end
 
-    desc 'Testing XCTest'
-    lane :test do
-    xctest()
-  end
+lane :tests do
+	run_tests(scheme: "Construction Helper")
+end
 
 end

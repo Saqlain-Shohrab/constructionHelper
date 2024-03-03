@@ -31,13 +31,13 @@ Install pods
 
 Builds project and executes unit tests
 
-### ios test
+### ios tests
 
 ```sh
-[bundle exec] fastlane ios test
+[bundle exec] fastlane ios tests
 ```
 
-Testing XCTest
+
 
 ----
 

@@ -1,0 +1,28 @@
+Literal Characters: Most characters in a regular expression simply match themselves. For example, the regex hello will match the string "hello" in its entirety.
+
+Character Classes: Square brackets [] are used to define a character class, which matches any one of the characters inside it. For example, [abc] matches either 'a', 'b', or 'c'. You can also specify ranges using a hyphen, such as [a-z] to match any lowercase letter.
+
+Quantifiers: Quantifiers specify how many times a character or a group of characters can appear. Some common quantifiers are:
+
+*: Matches zero or more occurrences of the preceding character or group.
++: Matches one or more occurrences of the preceding character or group.
+?: Matches zero or one occurrence of the preceding character or group.
+{n}: Matches exactly n occurrences of the preceding character or group.
+{n,}: Matches n or more occurrences of the preceding character or group.
+{n,m}: Matches between n and m occurrences of the preceding character or group.
+Anchors: Anchors are used to specify positions in the string. Some common anchors are:
+
+^: Matches the start of the string.
+$: Matches the end of the string.
+\b: Matches a word boundary.
+Escape Characters: Some characters have special meanings in regex, such as . (matches any character) and | (alternation). If you want to match these characters literally, you need to escape them with a backslash \.
+
+Grouping: Parentheses () are used to group parts of a regular expression together. This can be useful for applying quantifiers to multiple characters or creating subpatterns.
+
+Alternation: The pipe symbol | allows you to specify alternatives. For example, cat|dog matches either "cat" or "dog".
+
+Modifiers: You can use modifiers to change how the regex engine interprets the pattern. Common modifiers include:
+
+i: Case-insensitive matching.
+g: Global matching (matches all occurrences, not just the first one).
+m: Multiline matching (treats ^ and $ as the start/end of each line).

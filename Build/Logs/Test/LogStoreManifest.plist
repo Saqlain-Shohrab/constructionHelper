@@ -67,22 +67,22 @@
 			<key>uniqueIdentifier</key>
 			<string>246A79BC-A567-4474-BD78-763F04576193</string>
 		</dict>
-		<key>EF6BF085-0CF6-49F7-911A-3B50D97B060C</key>
+		<key>2DEBFB20-BAA7-4395-AC2B-31EF640176CD</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>5AE7A073-1F5B-47D0-9F06-3984E7D465C5</string>
+			<string>435A3077-E327-4DA6-B43F-C7C881B0382F</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>E</string>
+				<string>S</string>
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
-				<integer>23</integer>
+				<integer>0</integer>
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
+				<integer>0</integer>
 			</dict>
 			<key>className</key>
 			<string>IDESchemeActionsInvocationRecord</string>
@@ -91,10 +91,8 @@
 			<key>domainType</key>
 			<string>com.apple.dt.unit.cocoaUnitTest</string>
 			<key>fileName</key>
-			<string>Run-Construction Helper-2024.02.28_22-43-47-+0000.xcresult</string>
+			<string>Run-Construction Helper-2024.03.03_21-56-39-+0000.xcresult</string>
 			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasCoverageData</key>
 			<true/>
 			<key>hasPrimaryLog</key>
 			<true/>
@@ -105,11 +103,11 @@
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
-				<integer>3</integer>
+				<integer>2</integer>
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
+				<integer>2</integer>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Construction Helper project</string>
@@ -120,13 +118,13 @@
 			<key>signature</key>
 			<string>Run Construction Helper</string>
 			<key>timeStartedRecording</key>
-			<real>730853027.08516598</real>
+			<real>731195799.55076003</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run Construction Helper</string>
 			<key>uniqueIdentifier</key>
-			<string>EF6BF085-0CF6-49F7-911A-3B50D97B060C</string>
+			<string>2DEBFB20-BAA7-4395-AC2B-31EF640176CD</string>
 		</dict>
 	</dict>
 </dict>
