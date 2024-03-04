@@ -7,4 +7,10 @@ platform :ios do
       scan()
     end
 
+    desc 'Test build'
+    lane :tests do
+    	run_tests()
+    end
+
+
 end

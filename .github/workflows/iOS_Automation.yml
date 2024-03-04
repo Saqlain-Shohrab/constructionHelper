@@ -43,4 +43,4 @@ jobs:
           restore-keys: ${{ runner.os }}-deps-v1-
 
       - name: Run Tests
-        run: bundle exec fastlane unit_test
+        run: bundle exec fastlane tests
