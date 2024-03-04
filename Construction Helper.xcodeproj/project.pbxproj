@@ -1150,7 +1150,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81D55F2431BEE0C6D96E80CA /* Pods-Construction Helper-Construction HelperTests.debug.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 24K5UTJQ3G;
@@ -1222,7 +1221,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = CC1DD810F9F88F4D702C947D /* Pods-Construction Helper-Construction HelperTests.release.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 24K5UTJQ3G;
@@ -1294,7 +1292,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5C738A3F3962400FC1D4919D /* Pods-Construction Helper-Construction HelperUITests.debug.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 24K5UTJQ3G;
@@ -1315,7 +1312,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = ED0C8020661A376EB71E4AD5 /* Pods-Construction Helper-Construction HelperUITests.release.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 24K5UTJQ3G;
