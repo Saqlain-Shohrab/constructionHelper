@@ -67,6 +67,7 @@ class ProjectVC: UIViewController, UIScrollViewDelegate {
             weakSelf.project.fileURL = path
             
         }
+        viewModel.modifyPDFButtonText()
     }
     
     private func operations() {

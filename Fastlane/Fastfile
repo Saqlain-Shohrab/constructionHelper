@@ -11,4 +11,14 @@ platform :ios do
         clean: true
       )
     end
+
+    desc 'iOS XCTest'
+    lane :xctests do |options|
+    	xctest(
+    		workspace: "Construction Helper.xcworkspace",
+        scheme: "Construction Helper",
+        devices: ["iPhone 13 mini"],
+        clean: true
+        )
+    end
 end

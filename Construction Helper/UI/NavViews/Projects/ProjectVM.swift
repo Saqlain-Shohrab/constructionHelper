@@ -63,10 +63,7 @@ class ProjectVM: NSObject, UIScrollViewDelegate {
     }
     
     private func updateTextFromOtherThread() {
-        DispatchQueue.main.async { [weak self] in
-            guard let weakSelf = self else {return}
-            weakSelf.onPDFButtonTextChange.fire(weakSelf.pdfButtonText)
-        }
+        onPDFButtonTextChange.fire(pdfButtonText)
     }
     
     private func setupProjectUpdateObservers() {
@@ -112,6 +109,11 @@ class ProjectVM: NSObject, UIScrollViewDelegate {
         
     }
     
+    /// The function updates the text that appears on the download button
+    /// - Parameters:
+    ///   - progress: Current progress  while the pdf is being downloaded
+    ///   - textOnly: Where are there are no download running and only the text needed to be shown over the download button
+    /// - Returns: () -> Void
     func modifyPDFButtonText(progress: Double? = nil, textOnly: String? = nil) {
         
         DispatchQueue.main.async { [weak self] in
@@ -132,6 +134,7 @@ class ProjectVM: NSObject, UIScrollViewDelegate {
         
     }
     
+    /// This function navigates to the PDFView
     private func navigateToPDFView(path: String) {
         
         DispatchQueue.main.async { [weak self] in

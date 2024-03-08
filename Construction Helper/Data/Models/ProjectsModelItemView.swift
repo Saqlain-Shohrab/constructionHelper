@@ -19,6 +19,7 @@ struct ProjectsModelItemView {
     var desc = ""
     var version: Double = 0.0
     var image = ""
+    /// When the fileURL is nil, download the update the local storage path of the file
     var fileURL: String? = nil
     var projectProgress: Double = 0.0
     

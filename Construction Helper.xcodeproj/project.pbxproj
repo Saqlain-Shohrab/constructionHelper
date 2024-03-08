@@ -87,7 +87,6 @@
 		442B06992B6E96A500881029 /* Construction_HelperUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442B06982B6E96A500881029 /* Construction_HelperUITests.swift */; };
 		442B069B2B6E96A500881029 /* Construction_HelperUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442B069A2B6E96A500881029 /* Construction_HelperUITestsLaunchTests.swift */; };
 		442B06A92B6E970C00881029 /* CoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442B06A82B6E970C00881029 /* CoreViewController.swift */; };
-		4449C01B2B95284E00A07F9D /* Pods_Construction_Helper.framework in Sources */ = {isa = PBXBuildFile; fileRef = 44C91F852B805C130055775A /* Pods_Construction_Helper.framework */; };
 		445BF6B12B77A4FB00855DA6 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 445BF6B02B77A4FB00855DA6 /* Launch Screen.storyboard */; };
 		445DDB132B7138E00030521F /* PDFViewVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445DDB122B7138E00030521F /* PDFViewVC.swift */; };
 		445DDB162B714B860030521F /* lottie_proogress.json in Resources */ = {isa = PBXBuildFile; fileRef = 445DDB152B714B860030521F /* lottie_proogress.json */; };
@@ -884,7 +883,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4449C01B2B95284E00A07F9D /* Pods_Construction_Helper.framework in Sources */,
 				4423C4F02B8064EC00B7A74B /* UINavigationControllerExt.swift in Sources */,
 				4423C4F12B8064EC00B7A74B /* CAGradientLayerExt.swift in Sources */,
 				4423C4DD2B805FA800B7A74B /* Construction_HelperUITests.swift in Sources */,

@@ -23,6 +23,14 @@ For _fastlane_ installation instructions, see [Installing _fastlane_](https://do
 
 Builds project and executes unit tests
 
+### ios xctests
+
+```sh
+[bundle exec] fastlane ios xctests
+```
+
+iOS XCTest
+
 ----
 
 This README.md is auto-generated and will be re-generated every time [_fastlane_](https://fastlane.tools) is run.
