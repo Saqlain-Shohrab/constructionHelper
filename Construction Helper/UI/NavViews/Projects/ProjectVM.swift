@@ -114,6 +114,7 @@ class ProjectVM: NSObject, UIScrollViewDelegate {
     ///   - progress: Current progress  while the pdf is being downloaded
     ///   - textOnly: Where are there are no download running and only the text needed to be shown over the download button
     /// - Returns: () -> Void
+    /// - Warning: This function may return error or crash the app
     func modifyPDFButtonText(progress: Double? = nil, textOnly: String? = nil) {
         
         DispatchQueue.main.async { [weak self] in

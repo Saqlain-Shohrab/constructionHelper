@@ -52,7 +52,10 @@ class ProjectVC: UIViewController, UIScrollViewDelegate {
         viewModel.onPDFButtonTextChange.subscribe(with: self) { [weak self] text in
             
             guard let weakSelf = self else {return}
-            weakSelf.downloadPDFLabel.text = text
+            DispatchQueue.main.async { [weak weakSelf] in
+                guard let weakerSelf = weakSelf else {return}
+                weakerSelf.downloadPDFLabel.text = text
+            }
         }
         
         viewModel.onScrolled.subscribe(with: self) { [weak self] newHeigh in
