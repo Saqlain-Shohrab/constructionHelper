@@ -49,39 +49,13 @@ class ProjectsVM: NSObject {
         projectsRepository.requestData()
     }
     
-}
-
-extension ProjectsVM: UITableViewDataSource, UITableViewDelegate {
-    
-    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        projects.count
+    func getProjects() -> [ProjectsModelItemView] {
+        return self.projects
     }
     
-    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        let cell = tableView.dequeueReusableCell(withIdentifier: ProjectTVC.identifier, for: indexPath) as? ProjectTVC
-        cell?.bind(projects[indexPath.row], locationInList: indexPath.row)
-        return  cell ?? UITableViewCell()
-    }
-    
-    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        let vc = ViewFactory.createView(screenName: .PROJECT) as! ProjectVC
-        vc.project = projects[indexPath.row]
-        vc.navigationItem.hidesBackButton = false
-        NotificationCenter.default.post(name: Notifications.ShowView, object: vc)
+    func scrollViewDidScroll(_ scrollYpos: Double?) {
         
-    }
-    
-    func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
-        return ProjectTVC.ESTIMATE_HEIGHT//UITableViewAutomaticDimension
-    }
-    
-    func tableView(_ tableView: UITableView, estimatedHeightForRowAt indexPath: IndexPath) -> CGFloat {
-        return ProjectTVC.ESTIMATE_HEIGHT
-    }
-    
-    func scrollViewDidScroll(_ scrollView: UIScrollView) {
-        
-        var offsetY = scrollView.contentOffset.y
+        var offsetY = scrollYpos ?? 0.0
         offsetY = offsetY < 0 ? 0 : offsetY
 
         if (self.previousScrollPos < offsetY) {
@@ -94,4 +68,5 @@ extension ProjectsVM: UITableViewDataSource, UITableViewDelegate {
         previousScrollPos = offsetY
         
     }
+    
 }

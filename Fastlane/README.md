@@ -31,6 +31,14 @@ Builds project and executes unit tests
 
 iOS XCTest
 
+### ios code_coverage
+
+```sh
+[bundle exec] fastlane ios code_coverage
+```
+
+Code coverage
+
 ----
 
 This README.md is auto-generated and will be re-generated every time [_fastlane_](https://fastlane.tools) is run.

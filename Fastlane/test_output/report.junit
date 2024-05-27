@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <testsuites name='Construction HelperUITests.xctest' tests='14' failures='0'>
   <testsuite name='Construction_HelperTests.Construction_HelperUITests' tests='1' failures='0'>
-    <testcase classname='Construction_HelperTests.Construction_HelperUITests' name='testExample' time='0.009'/>
+    <testcase classname='Construction_HelperTests.Construction_HelperUITests' name='testExample' time='0.005'/>
   </testsuite>
   <testsuite name='Construction_HelperTests.Construction_HelperUITestsLaunchTests' tests='1' failures='0'>
-    <testcase classname='Construction_HelperTests.Construction_HelperUITestsLaunchTests' name='testLaunch' time='0.014'/>
+    <testcase classname='Construction_HelperTests.Construction_HelperUITestsLaunchTests' name='testLaunch' time='0.002'/>
   </testsuite>
   <testsuite name='Construction_HelperTests.HomeVM_Test' tests='3' failures='0'>
-    <testcase classname='Construction_HelperTests.HomeVM_Test' name='testApiFail' time='0.022'/>
-    <testcase classname='Construction_HelperTests.HomeVM_Test' name='testApiSuccess' time='0.100'/>
-    <testcase classname='Construction_HelperTests.HomeVM_Test' name='testPieChartDataCalculation' time='0.017'/>
+    <testcase classname='Construction_HelperTests.HomeVM_Test' name='testApiFail' time='0.004'/>
+    <testcase classname='Construction_HelperTests.HomeVM_Test' name='testApiSuccess' time='0.031'/>
+    <testcase classname='Construction_HelperTests.HomeVM_Test' name='testPieChartDataCalculation' time='0.003'/>
   </testsuite>
   <testsuite name='Construction_HelperTests.ProjectVM_Test' tests='2' failures='0'>
-    <testcase classname='Construction_HelperTests.ProjectVM_Test' name='testModifyPDFButtonText_WithProgress' time='0.108'/>
-    <testcase classname='Construction_HelperTests.ProjectVM_Test' name='testModifyPDFButtonText_WithTextOnly' time='0.129'/>
+    <testcase classname='Construction_HelperTests.ProjectVM_Test' name='testModifyPDFButtonText_WithProgress' time='0.107'/>
+    <testcase classname='Construction_HelperTests.ProjectVM_Test' name='testModifyPDFButtonText_WithTextOnly' time='0.103'/>
   </testsuite>
   <testsuite name='Construction_HelperTests.ProjectsVM_Test' tests='2' failures='0'>
-    <testcase classname='Construction_HelperTests.ProjectsVM_Test' name='testExample' time='0.005'/>
-    <testcase classname='Construction_HelperTests.ProjectsVM_Test' name='testPerformanceExample' time='1.518'/>
+    <testcase classname='Construction_HelperTests.ProjectsVM_Test' name='testExample' time='0.002'/>
+    <testcase classname='Construction_HelperTests.ProjectsVM_Test' name='testPerformanceExample' time='0.594'/>
   </testsuite>
   <testsuite name='Construction_HelperUITests.Construction_HelperUITests' tests='1' failures='0'>
-    <testcase classname='Construction_HelperUITests.Construction_HelperUITests' name='testExample' time='1.085'/>
+    <testcase classname='Construction_HelperUITests.Construction_HelperUITests' name='testExample' time='1.093'/>
   </testsuite>
   <testsuite name='Construction_HelperUITests.Construction_HelperUITestsLaunchTests' tests='4' failures='0'>
-    <testcase classname='Construction_HelperUITests.Construction_HelperUITestsLaunchTests' name='testLaunch' time='1.590'/>
-    <testcase classname='Construction_HelperUITests.Construction_HelperUITestsLaunchTests' name='testLaunch' time='0.838'/>
-    <testcase classname='Construction_HelperUITests.Construction_HelperUITestsLaunchTests' name='testLaunch' time='1.054'/>
-    <testcase classname='Construction_HelperUITests.Construction_HelperUITestsLaunchTests' name='testLaunch' time='1.001'/>
+    <testcase classname='Construction_HelperUITests.Construction_HelperUITestsLaunchTests' name='testLaunch' time='0.638'/>
+    <testcase classname='Construction_HelperUITests.Construction_HelperUITestsLaunchTests' name='testLaunch' time='0.358'/>
+    <testcase classname='Construction_HelperUITests.Construction_HelperUITestsLaunchTests' name='testLaunch' time='2.384'/>
+    <testcase classname='Construction_HelperUITests.Construction_HelperUITestsLaunchTests' name='testLaunch' time='0.350'/>
   </testsuite>
 </testsuites>

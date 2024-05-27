@@ -21,4 +21,14 @@ platform :ios do
         clean: true
         )
     end
+
+    desc 'Code coverage'
+    lane :code_coverage do |options|
+      xcov(
+        workspace: "Construction Helper.xcworkspace",
+        scheme: "Construction Helper",
+        output_directory: "xcov_output"
+      )
+    end
+
 end
